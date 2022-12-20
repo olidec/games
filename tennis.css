@@ -1,0 +1,22 @@
+#board {
+    position: absolute;
+    width: 550px;
+    height: 450px;
+    background-color: lightgreen;
+}
+
+#bat {
+    position: absolute;
+    top: 420px;
+    width: 80px;
+    height: 20px;
+    background-color: blue;
+}
+
+#ball {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    border-radius: 24px;
+    background-color: yellow;
+}
